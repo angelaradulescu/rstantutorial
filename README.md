@@ -1,5 +1,5 @@
 
-### Quick intro to RStan
+## Quick intro to RStan
 Niv Lab - August 2015
 
 ### Installation 
@@ -18,7 +18,14 @@ Here are the starting points for:
 
 If everything was installed correctly, you should be able to run the '8schools_checkpoint.R' script, which will run the sampling algorithm and produce a pretty plot of your posterior (don't worry about model specifics at this point -- this is just to check that everything works).
 
-## Exercise 1
+### Exercise 1
 
 
-## Exercise 2
+### Exercise 2
+
+
+### Other resources 
+
+
+
+http://mc-stan.org/tutorials.html
