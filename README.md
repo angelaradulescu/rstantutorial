@@ -1,7 +1,5 @@
 
-<snippet>
-  <content><![CDATA[
-# ${1:Quick intro to RStan}
+# Quick intro to RStan
 Niv Lab - August 2015
 ## Things you will need 
 R > 3.0 
@@ -15,6 +13,3 @@ RStan
 ## Exercise 1
 TODO: Write usage instructions
 ## Exercise 2
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
