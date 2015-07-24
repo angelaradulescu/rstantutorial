@@ -2,7 +2,7 @@
 ### Quick intro to RStan
 Niv Lab - August 2015
 
-### Installation instructions
+### Installation 
 
 To get the most out of Monday’s RStan session, it would be good if you install RStan in advance on your machine. The process is OS & version specific, but the main ingredients you will need are: 
 
