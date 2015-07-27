@@ -27,7 +27,7 @@ If everything was installed correctly, you should be able to run the '8schools_c
 
 ### Exercise 2
 
-* Modify 'Stan-BernBeta-Script.R' to include a Beta prior on the Omega parameter of your beta distribution (see graphical model on the slide) and run the the model again. Note the reparametrization on Beta in which we write the shape parameters Alpha and Beta in terms of the mode Omega and concentration K. The higher K is, the more concentrated the draws will be around Omega. 
+* Modify 'Stan-BernBeta-Script.R' to include a Beta prior on the Omega parameter of your beta distribution (see graphical model on the slide) and run the the model again. Note the reparametrization on Beta in which we write the shape parameters Alpha and Beta in terms of the mode Omega and concentration K. The higher K is, the more concentrated the draws will be around the mode. 
 * Using our Michael Jordan analogy, what does this model correspond to? 
 
 ### Exercise 3
