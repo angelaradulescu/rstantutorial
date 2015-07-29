@@ -30,10 +30,12 @@ If everything was installed correctly, you should be able to run the '8schools_c
 * Modify 'Stan-BernBeta-Script.R' to include a Beta prior on the Omega parameter of your beta distribution (see graphical model on the slide) and run the the model again. Note the reparametrization on Beta in which we write the shape parameters Alpha and Beta in terms of the mode Omega and concentration K. The higher K is, the more concentrated the draws will be around the mode. 
 * Using our Michael Jordan analogy, what does this model correspond to? 
 
-### Hierarchical models
+### Exercise 3
 
+You have just collected data from 10 subjects (100 trials per subject) performing a simple two-armed bandit task with binary rewards. 
 
-
+* Write down the graphical model corresponding to a simple RL algorithm for the task with two parameters: learning rate (Alpha) and temperature (Beta). 
+* Write an R + RStan program that takes in the data, 'rl_data.csv', and generates a posterior distribution over the population level learning rate (Alpha) and temperature (Beta). 
 
 ### Other resources 
 
